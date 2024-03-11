@@ -16,5 +16,5 @@ class Solution(object):
                 # if char is open bracket, push to stack
                 stack.append(char)
 
-        # expect empty stack if iteration succeed
+        # expect empty stack if iteration succeeded
         return not stack
