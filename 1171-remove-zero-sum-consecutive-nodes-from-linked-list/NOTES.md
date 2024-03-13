@@ -17,6 +17,6 @@ prefix sum | listnode
 0 -> 3 -> 1
 
 prefix sum | listnode
-		0      |      0       dummy
+    0      |      0       dummy
   0+3=3    |      3
-	3+1=4    |      1
+  3+1=4    |      1
