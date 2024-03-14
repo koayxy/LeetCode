@@ -1,6 +1,6 @@
 class Solution(object):
     def twoSum(self, nums, target):
-        # stores elements and indices
+        # stores elements and indices in a dictionary
         value = {}
         for i, num in enumerate(nums):
             # calculate the value to reach target
